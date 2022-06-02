@@ -1,6 +1,6 @@
 <bug_report>
   <project>Test_bug_report</project>
-  <issue_type>Bug</issue type>
+  <issue_type>Bug</issue_type>
   <summary>Registration page: The text filed 'Name' is displaced after clicking on the page</summary>
   <description>
     <STR>
