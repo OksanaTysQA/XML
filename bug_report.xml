@@ -1,1 +1,20 @@
-
+<bug_report>
+  <project>Test_bug_report</project>
+  <issue_type>Bug</issue type>
+  <summary>Registration page: The text filed 'Name' is displaced after clicking on the page</summary>
+  <description>
+    <STR>
+      <1>Open the registration page</1>
+      <2>Navigate to the text filed 'Name'</2>
+      <3>Click on the page</3>
+    </STR>
+    <result>The text filed 'Name' is displaced after clicking on the page</result>
+    <expected_result>The text filed 'Name' corresponds to the size specified in specification 2.1</expected_result>
+  </description>
+  <status>Open</status>
+  <reporter>Oksana Tyshchenko</reporter>
+  <priority>Medium</priority>
+  <severity>Minor</severity>
+  <environment>Windows 11, Google Chrom v.102.0.5005.61</environment>
+  <attachment>screen.png</attachment>
+</bug_report>
